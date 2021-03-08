@@ -1,4 +1,4 @@
-# pwm generate
+# pwm encode
 
 ### 介绍
 stm32解码pwm信号，工程使用CubeMX+Keil编写。  
